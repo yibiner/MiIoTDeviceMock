@@ -1,0 +1,2 @@
+# MiIoTDeviceMock
+小米IoT开发者平台个人开发者串口对接WiFi通用模组
